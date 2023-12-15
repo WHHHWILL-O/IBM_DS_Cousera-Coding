@@ -9,3 +9,5 @@
 - Hands-on practice on data visualization based on folium (a library for geograh viz)
 ## IBM_Plotly_Basics.jupyterlite
 - Hands-on practice on data visualization based on Ploty (a library for Interactive data viz)
+## IBM_dash_basics
+- Hands-on practice on data visualization based on Dash (create a basic dashboard with dash using HTML and core components)
