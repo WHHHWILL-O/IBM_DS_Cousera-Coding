@@ -14,4 +14,4 @@
 - Dash_Viz/IBM_dash_basics.py
 - Data Viz via Dash library
 ## SQL with Python
-- Hands-on practice on SQL, sqlite3
+- Hands-on practice on SQL, sqlite3, IBM Db2
