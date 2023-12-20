@@ -17,3 +17,5 @@
 - Hands-on practice on SQL, sqlite3, IBM Db2
 ## Web-Scraping
 - Hands-on practice on ETL in web-scraping with beautifulsoup, yfinace (srap stock historical data into structured dataset)
+## Applied-DS-Capstone
+- Final Project for SpaceX data analysis and machine leanring modeling
